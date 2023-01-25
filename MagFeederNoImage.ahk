@@ -63,7 +63,7 @@ global itemsInventory := []
 ;       Author: RoySilverblade, 2018
 ;
 ;       Additions by: Beev, 2020
-;       Refactored for V1 (current) AutoHotKey
+;       Refactored for V1.1 (current) AutoHotKey
 ; ----------------------------------------------------------
     
 

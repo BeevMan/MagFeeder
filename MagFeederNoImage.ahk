@@ -28,7 +28,6 @@ global g_magArray, g_posArray, g_charCast, g_magTimers
 global pauseAfterCycle := false   ; set to true with the MsgBox from Ctrl + E , Ctrl + P defaults it back to false
 
 ; Used to decide how many items to purchase in shouldItBuy9(magIdx) 
-; Also to decide ImageSearch in FeedMagMacro()
 global itemsInventory := []
 
 
